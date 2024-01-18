@@ -1,3 +1,3 @@
-#Hello IST 707!
+# Hello IST 707!
 
 ![My Image](AMLWeek1.webp)
